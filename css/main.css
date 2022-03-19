@@ -4,6 +4,12 @@ body{
 
 div{
     width: 200px;
-    height: 200px;
+    height: 90px;
+    padding: 0px;
     border: 1px solid white;
+    box-sizing: border-box;
+    margin: 0 auto;
+    text-align: center;
+    background-color: gray;
+    color: black;
 }
